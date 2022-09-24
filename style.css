@@ -163,6 +163,12 @@ footer p {
     flex-wrap: wrap;
   }
 
+  .item-double {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
 /* 
   #ideas {
     display: flex;
@@ -180,3 +186,4 @@ footer p {
   } */
 
 }
+
